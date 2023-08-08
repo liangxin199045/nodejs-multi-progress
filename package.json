@@ -1,0 +1,8 @@
+{
+  "name": "nodejs-multi-progress",
+  "version": "1.0.0",
+  "main": "master.js",
+  "repository": "https://github.com/liangxin199045/nodejs-multi-progress.git",
+  "author": "iceman <xin.liang@shopee.com>",
+  "license": "MIT"
+}
